@@ -9,4 +9,6 @@ add_executable(C___Programming
         start.cpp
         start.h
         calc.h
-        calc.cpp)
+        calc.cpp
+        prac.cpp
+        class.cpp)
