@@ -11,4 +11,9 @@ add_executable(C___Programming
         calc.h
         calc.cpp
         prac.cpp
-        class.cpp)
+        class.cpp
+        functions.cpp
+        namespaces.cpp
+        strings.cpp
+        vector.cpp
+        set.cpp)
