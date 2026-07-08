@@ -16,4 +16,6 @@ add_executable(C___Programming
         namespaces.cpp
         strings.cpp
         vector.cpp
-        set.cpp)
+        set.cpp
+        map.cpp
+        structs.cpp)
