@@ -18,4 +18,5 @@ add_executable(C___Programming
         vector.cpp
         set.cpp
         map.cpp
-        structs.cpp)
+        structs.cpp
+        scopeRes.cpp)
