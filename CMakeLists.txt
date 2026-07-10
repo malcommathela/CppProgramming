@@ -19,4 +19,8 @@ add_executable(C___Programming
         set.cpp
         map.cpp
         structs.cpp
-        scopeRes.cpp)
+        scopeRes.cpp
+        inheritance.cpp
+        polymorphism.cpp
+        abstraction.cpp
+        virtualfunction.cpp)
