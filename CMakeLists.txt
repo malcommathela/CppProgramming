@@ -23,4 +23,6 @@ add_executable(C___Programming
         inheritance.cpp
         polymorphism.cpp
         abstraction.cpp
-        virtualfunction.cpp)
+        virtualfunction.cpp
+        quadratic.cpp
+        accessspecifiers.cpp)
