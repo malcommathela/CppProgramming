@@ -25,4 +25,8 @@ add_executable(C___Programming
         abstraction.cpp
         virtualfunction.cpp
         quadratic.cpp
-        accessspecifiers.cpp)
+        accessspecifiers.cpp
+        Copy_Constructor.cpp
+        Copy_Constructor.h
+        DMA_Constructor.cpp
+        Temporary_Objects.cpp)
