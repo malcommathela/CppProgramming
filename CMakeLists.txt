@@ -5,28 +5,3 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(.)
 
-add_executable(C___Programming
-        start.cpp
-        start.h
-        calc.h
-        calc.cpp
-        prac.cpp
-        class.cpp
-        functions.cpp
-        namespaces.cpp
-        strings.cpp
-        vector.cpp
-        set.cpp
-        map.cpp
-        structs.cpp
-        scopeRes.cpp
-        inheritance.cpp
-        polymorphism.cpp
-        abstraction.cpp
-        virtualfunction.cpp
-        quadratic.cpp
-        accessspecifiers.cpp
-        Copy_Constructor.cpp
-        Copy_Constructor.h
-        DMA_Constructor.cpp
-        Temporary_Objects.cpp)
